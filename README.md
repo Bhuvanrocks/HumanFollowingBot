@@ -1,4 +1,5 @@
-Human Following Robot Using Raspberry Pi, OpenCV, and MediaPipe
+#Human Following Robot Using Raspberry Pi, OpenCV, and MediaPipe
+
 This project implements a human-following robot using a Raspberry Pi, motor control, and real-time pose detection through MediaPipe and OpenCV. The robot is equipped with two DC motors controlled via GPIO pins on the Raspberry Pi. By detecting human pose landmarks from video input, the robot adjusts its movement to follow the detected person.
 
 Features:
