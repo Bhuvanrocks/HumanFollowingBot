@@ -29,7 +29,5 @@ Turn Left if the person is on the left of the frame.
 Turn Right if the person is on the right of the frame.
 Move Forward if the person is in the center of the frame.
 Stop if no person is detected.
-Getting Started:
-Clone this repository and follow the instructions to set up the hardware and install the required libraries. Once everything is set up, run the provided Python script to start the human-following robot.
 
-This description gives a clear overview of the project and how it works. You can adjust the details as per your exact project setup.
+
