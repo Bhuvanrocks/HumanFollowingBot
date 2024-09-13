@@ -107,10 +107,13 @@ def main():
     try:
         # Example usage
         move_forward_for_time(80, 3)
+        set_angle(0)
         move_back_for_time(80, 3)
+        set_angle(90)
         move_right_for_time(80, 3)
+        set_angle(180)
         move_left_for_time(80, 3)
-        set_angle(90)  # Center the servo
+        set_angle(0)  # Center the servo
 
     finally:
         # Cleanup
